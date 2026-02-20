@@ -1,0 +1,51 @@
+# =========================
+# SYSTEM & IDE
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.user
+*.suo
+
+# =========================
+# BACKEND (C# / .NET)
+# =========================
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+.vs/
+appsettings.Development.json
+
+# =========================
+# FRONTEND (React / Node)
+# =========================
+node_modules/
+dist/
+build/
+npm-debug.log*
+.env
+.env.local
+
+# =========================
+# FIRMWARE (PlatformIO / C++)
+# =========================
+.pio/
+.pioenvs/
+.piolibdeps/
+*.hex
+*.elf
+*.bin
+
+# =========================
+# HARDWARE (KiCad)
+# =========================
+# Ignoruj kopie zapasowe i pliki tymczasowe KiCada
+*-backups/
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_prl
+*.kicad_wks
+_autosave-*
+fp-info-cache

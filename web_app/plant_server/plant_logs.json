@@ -1,0 +1,4502 @@
+[
+  {
+    "Timestamp": "2026-01-28T11:25:10.7806078+01:00",
+    "Moisture": 100,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:11.9944715+01:00",
+    "Moisture": 100,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:13.2392939+01:00",
+    "Moisture": 100,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:14.5734476+01:00",
+    "Moisture": 30,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:15.8036532+01:00",
+    "Moisture": 72,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:17.0377332+01:00",
+    "Moisture": 79,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:18.2656556+01:00",
+    "Moisture": 72,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:19.5086372+01:00",
+    "Moisture": 92,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:20.7476691+01:00",
+    "Moisture": 79,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:21.972882+01:00",
+    "Moisture": 60,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:35.8623966+01:00",
+    "Moisture": 91,
+    "Lux": -1,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:41.6564297+01:00",
+    "Moisture": 100,
+    "Lux": 0,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:42.9356309+01:00",
+    "Moisture": 100,
+    "Lux": 203.33,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:50.1725807+01:00",
+    "Moisture": 100,
+    "Lux": 201.67,
+    "Temperature": 22.39,
+    "Humidity": 38.04,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:54.2181378+01:00",
+    "Moisture": 100,
+    "Lux": 205,
+    "Temperature": 22.42,
+    "Humidity": 38.52,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:55.4259269+01:00",
+    "Moisture": 100,
+    "Lux": 195,
+    "Temperature": 22.44,
+    "Humidity": 38.63,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:56.6337025+01:00",
+    "Moisture": 100,
+    "Lux": 172.5,
+    "Temperature": 22.45,
+    "Humidity": 38.7,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:57.8516653+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 22.44,
+    "Humidity": 38.25,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:25:59.0497302+01:00",
+    "Moisture": 100,
+    "Lux": 199.17,
+    "Temperature": 22.44,
+    "Humidity": 37.96,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:00.2668474+01:00",
+    "Moisture": 100,
+    "Lux": 205.83,
+    "Temperature": 22.45,
+    "Humidity": 37.43,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:05.9689941+01:00",
+    "Moisture": 100,
+    "Lux": 205.83,
+    "Temperature": 22.44,
+    "Humidity": 39,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:11.1269292+01:00",
+    "Moisture": 100,
+    "Lux": 207.5,
+    "Temperature": 22.48,
+    "Humidity": 38.6,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:12.4290173+01:00",
+    "Moisture": 100,
+    "Lux": 208.33,
+    "Temperature": 22.48,
+    "Humidity": 38.44,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:13.6219746+01:00",
+    "Moisture": 100,
+    "Lux": 181.67,
+    "Temperature": 22.47,
+    "Humidity": 37.82,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:14.83395+01:00",
+    "Moisture": 97,
+    "Lux": 172.5,
+    "Temperature": 22.47,
+    "Humidity": 37.65,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:16.2152924+01:00",
+    "Moisture": 100,
+    "Lux": 174.17,
+    "Temperature": 22.47,
+    "Humidity": 37.99,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:17.4443796+01:00",
+    "Moisture": 100,
+    "Lux": 175.83,
+    "Temperature": 22.48,
+    "Humidity": 39.02,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:18.674566+01:00",
+    "Moisture": 100,
+    "Lux": 174.17,
+    "Temperature": 22.48,
+    "Humidity": 38.51,
+    "Pressure": 966.16,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:20.003843+01:00",
+    "Moisture": 100,
+    "Lux": 180.83,
+    "Temperature": 22.49,
+    "Humidity": 40.17,
+    "Pressure": 966.13,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:21.2112084+01:00",
+    "Moisture": 100,
+    "Lux": 182.5,
+    "Temperature": 22.51,
+    "Humidity": 40.12,
+    "Pressure": 966.15,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:22.4668154+01:00",
+    "Moisture": 100,
+    "Lux": 178.33,
+    "Temperature": 22.5,
+    "Humidity": 38.86,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:23.6902617+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 22.5,
+    "Humidity": 39.01,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:25.1240848+01:00",
+    "Moisture": 100,
+    "Lux": 207.5,
+    "Temperature": 22.51,
+    "Humidity": 39.52,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:26.3272441+01:00",
+    "Moisture": 100,
+    "Lux": 208.33,
+    "Temperature": 22.52,
+    "Humidity": 39.63,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:31.9063873+01:00",
+    "Moisture": 100,
+    "Lux": 207.5,
+    "Temperature": 22.52,
+    "Humidity": 40.55,
+    "Pressure": 966.15,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:37.6520866+01:00",
+    "Moisture": 100,
+    "Lux": 211.67,
+    "Temperature": 22.52,
+    "Humidity": 38.12,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:38.9519809+01:00",
+    "Moisture": 100,
+    "Lux": 210.83,
+    "Temperature": 22.52,
+    "Humidity": 37.84,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:40.1598703+01:00",
+    "Moisture": 100,
+    "Lux": 211.67,
+    "Temperature": 22.51,
+    "Humidity": 37.65,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:41.4065594+01:00",
+    "Moisture": 100,
+    "Lux": 216.67,
+    "Temperature": 22.5,
+    "Humidity": 37.54,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:42.6350956+01:00",
+    "Moisture": 100,
+    "Lux": 216.67,
+    "Temperature": 22.5,
+    "Humidity": 37.47,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:43.8640281+01:00",
+    "Moisture": 100,
+    "Lux": 211.67,
+    "Temperature": 22.5,
+    "Humidity": 37.54,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:45.0700867+01:00",
+    "Moisture": 100,
+    "Lux": 218.33,
+    "Temperature": 22.5,
+    "Humidity": 37.75,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:46.269732+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.5,
+    "Humidity": 37.53,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:47.4697342+01:00",
+    "Moisture": 95,
+    "Lux": 221.67,
+    "Temperature": 22.51,
+    "Humidity": 37.41,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:48.6726716+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.51,
+    "Humidity": 37.56,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:49.8922797+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.51,
+    "Humidity": 37.5,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:51.1096624+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.52,
+    "Humidity": 38.97,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:52.3164589+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.52,
+    "Humidity": 38.56,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:53.515653+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.53,
+    "Humidity": 38.64,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:54.8205692+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.53,
+    "Humidity": 38.81,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:56.027258+01:00",
+    "Moisture": 100,
+    "Lux": 207.5,
+    "Temperature": 22.53,
+    "Humidity": 39.5,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:57.2331838+01:00",
+    "Moisture": 100,
+    "Lux": 218.33,
+    "Temperature": 22.55,
+    "Humidity": 39.4,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:58.5071927+01:00",
+    "Moisture": 100,
+    "Lux": 218.33,
+    "Temperature": 22.55,
+    "Humidity": 39.47,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:26:59.7101414+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.55,
+    "Humidity": 39.23,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:00.9641823+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.55,
+    "Humidity": 39.72,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:02.2958639+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.55,
+    "Humidity": 39.02,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:03.5242225+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.55,
+    "Humidity": 37.9,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:04.7259713+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.56,
+    "Humidity": 38.22,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:05.9583112+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.57,
+    "Humidity": 38.94,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:07.3130518+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.57,
+    "Humidity": 38.43,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:08.519736+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.58,
+    "Humidity": 38.31,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:09.7430135+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.58,
+    "Humidity": 37.68,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:11.0219409+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.57,
+    "Humidity": 37.19,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:12.2285128+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.56,
+    "Humidity": 37.18,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:13.42757+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.55,
+    "Humidity": 37.16,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:14.6295501+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.55,
+    "Humidity": 36.82,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:15.8559285+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.55,
+    "Humidity": 36.74,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:17.0581608+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.55,
+    "Humidity": 36.97,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:18.2576069+01:00",
+    "Moisture": 100,
+    "Lux": 73.33,
+    "Temperature": 22.54,
+    "Humidity": 36.67,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:19.4550471+01:00",
+    "Moisture": 100,
+    "Lux": 91.67,
+    "Temperature": 22.55,
+    "Humidity": 36.86,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:20.7286112+01:00",
+    "Moisture": 100,
+    "Lux": 95.83,
+    "Temperature": 22.57,
+    "Humidity": 38.02,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:21.9594904+01:00",
+    "Moisture": 100,
+    "Lux": 113.33,
+    "Temperature": 22.57,
+    "Humidity": 39.75,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:23.1604953+01:00",
+    "Moisture": 100,
+    "Lux": 111.67,
+    "Temperature": 22.58,
+    "Humidity": 39.63,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:24.3644117+01:00",
+    "Moisture": 100,
+    "Lux": 113.33,
+    "Temperature": 22.59,
+    "Humidity": 39.6,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:25.561387+01:00",
+    "Moisture": 100,
+    "Lux": 118.33,
+    "Temperature": 22.6,
+    "Humidity": 40.03,
+    "Pressure": 966.09,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:26.7682416+01:00",
+    "Moisture": 100,
+    "Lux": 122.5,
+    "Temperature": 22.62,
+    "Humidity": 39.77,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:27.964307+01:00",
+    "Moisture": 100,
+    "Lux": 144.17,
+    "Temperature": 22.62,
+    "Humidity": 40.53,
+    "Pressure": 966.1,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:29.3287969+01:00",
+    "Moisture": 100,
+    "Lux": 144.17,
+    "Temperature": 22.63,
+    "Humidity": 40.56,
+    "Pressure": 966.1,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:30.5284636+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.65,
+    "Humidity": 40.76,
+    "Pressure": 966.12,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:31.7272195+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.66,
+    "Humidity": 40.34,
+    "Pressure": 966.11,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:32.9265887+01:00",
+    "Moisture": 100,
+    "Lux": 142.5,
+    "Temperature": 22.67,
+    "Humidity": 39.46,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:34.2434987+01:00",
+    "Moisture": 100,
+    "Lux": 142.5,
+    "Temperature": 22.68,
+    "Humidity": 38.92,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:35.4405424+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.68,
+    "Humidity": 38.72,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:36.7024364+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.69,
+    "Humidity": 38.92,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:38.1361879+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.7,
+    "Humidity": 39.47,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:39.3654719+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.69,
+    "Humidity": 38.97,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:40.5704358+01:00",
+    "Moisture": 100,
+    "Lux": 140.83,
+    "Temperature": 22.71,
+    "Humidity": 37.92,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:41.7882176+01:00",
+    "Moisture": 100,
+    "Lux": 141.67,
+    "Temperature": 22.71,
+    "Humidity": 37.63,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:42.9857534+01:00",
+    "Moisture": 100,
+    "Lux": 143.33,
+    "Temperature": 22.72,
+    "Humidity": 38.02,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:44.2798309+01:00",
+    "Moisture": 100,
+    "Lux": 145,
+    "Temperature": 22.73,
+    "Humidity": 37.87,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:45.4816397+01:00",
+    "Moisture": 100,
+    "Lux": 146.67,
+    "Temperature": 22.74,
+    "Humidity": 39.59,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:46.6842192+01:00",
+    "Moisture": 100,
+    "Lux": 150.83,
+    "Temperature": 22.75,
+    "Humidity": 39.89,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:48.0680277+01:00",
+    "Moisture": 100,
+    "Lux": 145.83,
+    "Temperature": 22.75,
+    "Humidity": 38.16,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:49.2735326+01:00",
+    "Moisture": 100,
+    "Lux": 132.5,
+    "Temperature": 22.75,
+    "Humidity": 37.27,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:50.5305873+01:00",
+    "Moisture": 100,
+    "Lux": 146.67,
+    "Temperature": 22.76,
+    "Humidity": 38.67,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:51.7301807+01:00",
+    "Moisture": 100,
+    "Lux": 147.5,
+    "Temperature": 22.76,
+    "Humidity": 38.76,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:52.94186+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.77,
+    "Humidity": 39.25,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:54.215558+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.78,
+    "Humidity": 39.1,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:55.4225551+01:00",
+    "Moisture": 100,
+    "Lux": 155.83,
+    "Temperature": 22.78,
+    "Humidity": 39.6,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:56.6211543+01:00",
+    "Moisture": 100,
+    "Lux": 154.17,
+    "Temperature": 22.78,
+    "Humidity": 39.11,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:57.8208146+01:00",
+    "Moisture": 100,
+    "Lux": 154.17,
+    "Temperature": 22.78,
+    "Humidity": 37.95,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:27:59.0230869+01:00",
+    "Moisture": 100,
+    "Lux": 155.83,
+    "Temperature": 22.79,
+    "Humidity": 38.95,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:00.2201414+01:00",
+    "Moisture": 100,
+    "Lux": 155,
+    "Temperature": 22.8,
+    "Humidity": 39.1,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:01.419621+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.81,
+    "Humidity": 40.33,
+    "Pressure": 966.15,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:02.6209156+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.81,
+    "Humidity": 39.26,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:03.8267357+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.81,
+    "Humidity": 39.92,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:05.0337015+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.8,
+    "Humidity": 39.13,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:06.2433969+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.8,
+    "Humidity": 39.2,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:07.4436466+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.81,
+    "Humidity": 38.42,
+    "Pressure": 966.16,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:08.642456+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.81,
+    "Humidity": 38.72,
+    "Pressure": 966.16,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:09.9846231+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.82,
+    "Humidity": 38.66,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:11.1944622+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.82,
+    "Humidity": 37.98,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:12.3926662+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.81,
+    "Humidity": 37.14,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:13.5914644+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.82,
+    "Humidity": 37.13,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:14.7860128+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.83,
+    "Humidity": 38.02,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:15.9861909+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.83,
+    "Humidity": 37.8,
+    "Pressure": 966.16,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:17.1742363+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.83,
+    "Humidity": 36.98,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:18.3946644+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.84,
+    "Humidity": 36.8,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:19.5978523+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.85,
+    "Humidity": 36.83,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:21.0418716+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.85,
+    "Humidity": 38.33,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:22.2478799+01:00",
+    "Moisture": 100,
+    "Lux": 153.33,
+    "Temperature": 22.84,
+    "Humidity": 37.73,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:23.4456774+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.84,
+    "Humidity": 37.31,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:24.6462313+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.85,
+    "Humidity": 38.26,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:25.8444595+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.85,
+    "Humidity": 37.87,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:27.0483008+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.85,
+    "Humidity": 38.53,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:28.2428762+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.86,
+    "Humidity": 38.88,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:29.5409499+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.87,
+    "Humidity": 39.76,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:30.7722296+01:00",
+    "Moisture": 100,
+    "Lux": 152.5,
+    "Temperature": 22.87,
+    "Humidity": 39.04,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:31.9706761+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.85,
+    "Humidity": 37.17,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:33.190769+01:00",
+    "Moisture": 100,
+    "Lux": 151.67,
+    "Temperature": 22.87,
+    "Humidity": 39.33,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:34.3908119+01:00",
+    "Moisture": 100,
+    "Lux": 150.83,
+    "Temperature": 22.87,
+    "Humidity": 38.7,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:35.6861111+01:00",
+    "Moisture": 100,
+    "Lux": 150.83,
+    "Temperature": 22.87,
+    "Humidity": 38.26,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:36.8854529+01:00",
+    "Moisture": 100,
+    "Lux": 149.17,
+    "Temperature": 22.87,
+    "Humidity": 38.11,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:38.0862603+01:00",
+    "Moisture": 100,
+    "Lux": 150,
+    "Temperature": 22.88,
+    "Humidity": 38.85,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:39.2849943+01:00",
+    "Moisture": 100,
+    "Lux": 149.17,
+    "Temperature": 22.88,
+    "Humidity": 38.94,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:40.6021817+01:00",
+    "Moisture": 100,
+    "Lux": 132.5,
+    "Temperature": 22.89,
+    "Humidity": 40.44,
+    "Pressure": 966.14,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:41.9305582+01:00",
+    "Moisture": 100,
+    "Lux": 146.67,
+    "Temperature": 22.9,
+    "Humidity": 39.27,
+    "Pressure": 966.16,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:43.1282449+01:00",
+    "Moisture": 100,
+    "Lux": 150.83,
+    "Temperature": 22.9,
+    "Humidity": 39.36,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:44.49069+01:00",
+    "Moisture": 100,
+    "Lux": 149.17,
+    "Temperature": 22.9,
+    "Humidity": 38.86,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:45.7025709+01:00",
+    "Moisture": 100,
+    "Lux": 150.83,
+    "Temperature": 22.92,
+    "Humidity": 38.9,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:46.9078352+01:00",
+    "Moisture": 100,
+    "Lux": 150,
+    "Temperature": 22.91,
+    "Humidity": 38.6,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:48.2882464+01:00",
+    "Moisture": 100,
+    "Lux": 150,
+    "Temperature": 22.93,
+    "Humidity": 37.98,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:49.5084851+01:00",
+    "Moisture": 100,
+    "Lux": 149.17,
+    "Temperature": 22.93,
+    "Humidity": 38.37,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:50.840702+01:00",
+    "Moisture": 100,
+    "Lux": 150,
+    "Temperature": 22.92,
+    "Humidity": 38.12,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:52.0529312+01:00",
+    "Moisture": 100,
+    "Lux": 137.5,
+    "Temperature": 22.94,
+    "Humidity": 37.99,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:53.2683274+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.94,
+    "Humidity": 38.07,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:54.4761904+01:00",
+    "Moisture": 100,
+    "Lux": 228.33,
+    "Temperature": 22.95,
+    "Humidity": 37.82,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:55.6847877+01:00",
+    "Moisture": 100,
+    "Lux": 229.17,
+    "Temperature": 22.95,
+    "Humidity": 37.31,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:56.9847821+01:00",
+    "Moisture": 100,
+    "Lux": 229.17,
+    "Temperature": 22.95,
+    "Humidity": 37.1,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:58.4213952+01:00",
+    "Moisture": 100,
+    "Lux": 229.17,
+    "Temperature": 22.95,
+    "Humidity": 36.89,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:28:59.6126628+01:00",
+    "Moisture": 100,
+    "Lux": 229.17,
+    "Temperature": 22.95,
+    "Humidity": 36.79,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:03.598276+01:00",
+    "Moisture": 100,
+    "Lux": 229.17,
+    "Temperature": 22.94,
+    "Humidity": 36.7,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:04.807337+01:00",
+    "Moisture": 100,
+    "Lux": 228.33,
+    "Temperature": 22.93,
+    "Humidity": 36.58,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:06.0975054+01:00",
+    "Moisture": 100,
+    "Lux": 227.5,
+    "Temperature": 22.94,
+    "Humidity": 36.58,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:07.5304944+01:00",
+    "Moisture": 100,
+    "Lux": 227.5,
+    "Temperature": 22.94,
+    "Humidity": 36.36,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:08.8628751+01:00",
+    "Moisture": 100,
+    "Lux": 227.5,
+    "Temperature": 22.93,
+    "Humidity": 36.08,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:10.0707075+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.93,
+    "Humidity": 35.76,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:11.2666274+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.93,
+    "Humidity": 35.51,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:12.4706878+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.93,
+    "Humidity": 35.46,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:13.6895512+01:00",
+    "Moisture": 100,
+    "Lux": 227.5,
+    "Temperature": 22.92,
+    "Humidity": 35.35,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:14.9007241+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.92,
+    "Humidity": 35.34,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:16.0959845+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.92,
+    "Humidity": 35.17,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:17.2997004+01:00",
+    "Moisture": 100,
+    "Lux": 227.5,
+    "Temperature": 22.92,
+    "Humidity": 35.38,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:18.4999755+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.92,
+    "Humidity": 35.21,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:19.7099614+01:00",
+    "Moisture": 100,
+    "Lux": 226.67,
+    "Temperature": 22.91,
+    "Humidity": 35.04,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:20.9115858+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.91,
+    "Humidity": 35.01,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:22.2853291+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.9,
+    "Humidity": 35.03,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:23.6079608+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.9,
+    "Humidity": 35.9,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:24.8054411+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.88,
+    "Humidity": 34.99,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:26.0114081+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.88,
+    "Humidity": 34.76,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:27.2944284+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.88,
+    "Humidity": 34.8,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:28.5022779+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.87,
+    "Humidity": 34.68,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:29.699146+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.87,
+    "Humidity": 35.02,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:30.8874878+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.87,
+    "Humidity": 35.48,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:32.1076021+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.87,
+    "Humidity": 35.61,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:33.3428694+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.87,
+    "Humidity": 35.53,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:34.5479848+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.86,
+    "Humidity": 35.27,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:35.745861+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.86,
+    "Humidity": 35.11,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:36.9573035+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.84,
+    "Humidity": 35.05,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:38.1645691+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.83,
+    "Humidity": 35.07,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:39.3626846+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.83,
+    "Humidity": 35.17,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:40.6261582+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.83,
+    "Humidity": 35.42,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:41.9387571+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.83,
+    "Humidity": 35.86,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:43.139336+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.82,
+    "Humidity": 36.2,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:44.3419953+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.81,
+    "Humidity": 36.38,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:45.5368322+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.81,
+    "Humidity": 36.42,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:46.8567+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.81,
+    "Humidity": 36.47,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:48.0495795+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.8,
+    "Humidity": 36.69,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:49.25309+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.79,
+    "Humidity": 36.71,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:50.5395117+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.79,
+    "Humidity": 36.77,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:51.7689159+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.78,
+    "Humidity": 38.31,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:52.9665826+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.79,
+    "Humidity": 38.05,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:54.2285169+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.79,
+    "Humidity": 37.36,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:55.429061+01:00",
+    "Moisture": 95,
+    "Lux": 221.67,
+    "Temperature": 22.79,
+    "Humidity": 37.17,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:56.6849534+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.79,
+    "Humidity": 37.74,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:57.8927247+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.79,
+    "Humidity": 36.97,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:29:59.0913428+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.79,
+    "Humidity": 36.68,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:00.3719994+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.8,
+    "Humidity": 36.58,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:01.5922512+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.81,
+    "Humidity": 36.5,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:02.7920006+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.81,
+    "Humidity": 36.36,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:04.0592801+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.82,
+    "Humidity": 35.95,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:05.2850102+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.82,
+    "Humidity": 35.41,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:06.4853966+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 35.56,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:07.7425417+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 35.99,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:08.9470525+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 36.15,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:10.164886+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.84,
+    "Humidity": 36.24,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:11.4328716+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 22.84,
+    "Humidity": 36.3,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:12.633496+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.84,
+    "Humidity": 36.27,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:13.8455122+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 36.2,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:15.0445197+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 36.33,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:16.2513825+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.83,
+    "Humidity": 36.35,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:17.4552138+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.84,
+    "Humidity": 36.31,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:18.6999972+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.84,
+    "Humidity": 36.25,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:19.9045808+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.84,
+    "Humidity": 36.27,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:21.102629+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.85,
+    "Humidity": 36.35,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:25.0957919+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.85,
+    "Humidity": 36.41,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:26.2984251+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.85,
+    "Humidity": 35.65,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:27.5296067+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.86,
+    "Humidity": 35.8,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:28.8393183+01:00",
+    "Moisture": 100,
+    "Lux": 221.67,
+    "Temperature": 22.86,
+    "Humidity": 36.07,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:30.0439624+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.85,
+    "Humidity": 36.46,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:31.2422602+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.84,
+    "Humidity": 36.64,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:32.4413353+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.84,
+    "Humidity": 36.69,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:33.6444492+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.84,
+    "Humidity": 36.63,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:34.8581179+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.83,
+    "Humidity": 36.45,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:36.074057+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.84,
+    "Humidity": 36.24,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:37.3362115+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.84,
+    "Humidity": 36.32,
+    "Pressure": 966.04,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:38.534832+01:00",
+    "Moisture": 100,
+    "Lux": 222.5,
+    "Temperature": 22.83,
+    "Humidity": 36.41,
+    "Pressure": 966.06,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:39.794633+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.82,
+    "Humidity": 36.48,
+    "Pressure": 966.06,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:41.0024101+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.82,
+    "Humidity": 36.54,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:42.2072831+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.81,
+    "Humidity": 36.52,
+    "Pressure": 966.06,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:43.4149315+01:00",
+    "Moisture": 100,
+    "Lux": 223.33,
+    "Temperature": 22.82,
+    "Humidity": 36.54,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:44.6137663+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.81,
+    "Humidity": 36.51,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:45.8126225+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.43,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:47.012387+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.41,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:48.2930771+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.38,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:49.4938369+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.81,
+    "Humidity": 36.41,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:50.7528192+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.44,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:51.9557716+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.42,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:53.1629747+01:00",
+    "Moisture": 100,
+    "Lux": 224.17,
+    "Temperature": 22.82,
+    "Humidity": 36.35,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:57.5988993+01:00",
+    "Moisture": 100,
+    "Lux": 225,
+    "Temperature": 22.81,
+    "Humidity": 36.29,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:58.8036722+01:00",
+    "Moisture": 100,
+    "Lux": 225.83,
+    "Temperature": 22.8,
+    "Humidity": 35.63,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:30:59.9997816+01:00",
+    "Moisture": 100,
+    "Lux": 77.5,
+    "Temperature": 22.79,
+    "Humidity": 36.33,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:01.199933+01:00",
+    "Moisture": 100,
+    "Lux": 114.17,
+    "Temperature": 22.81,
+    "Humidity": 38.52,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:02.3966291+01:00",
+    "Moisture": 100,
+    "Lux": 115.83,
+    "Temperature": 22.82,
+    "Humidity": 38.71,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:03.6534673+01:00",
+    "Moisture": 100,
+    "Lux": 124.17,
+    "Temperature": 22.83,
+    "Humidity": 38.63,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:04.985631+01:00",
+    "Moisture": 100,
+    "Lux": 111.67,
+    "Temperature": 22.84,
+    "Humidity": 38.27,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:06.1952391+01:00",
+    "Moisture": 100,
+    "Lux": 113.33,
+    "Temperature": 22.86,
+    "Humidity": 38.21,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:07.4420691+01:00",
+    "Moisture": 100,
+    "Lux": 112.5,
+    "Temperature": 22.86,
+    "Humidity": 37.96,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:08.642169+01:00",
+    "Moisture": 100,
+    "Lux": 112.5,
+    "Temperature": 22.88,
+    "Humidity": 37.67,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:09.900277+01:00",
+    "Moisture": 100,
+    "Lux": 111.67,
+    "Temperature": 22.88,
+    "Humidity": 37.41,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:11.1061241+01:00",
+    "Moisture": 100,
+    "Lux": 112.5,
+    "Temperature": 22.89,
+    "Humidity": 36.99,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:12.3133634+01:00",
+    "Moisture": 100,
+    "Lux": 115.83,
+    "Temperature": 22.91,
+    "Humidity": 37.02,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:13.5187692+01:00",
+    "Moisture": 100,
+    "Lux": 110.83,
+    "Temperature": 22.91,
+    "Humidity": 36.74,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:14.720052+01:00",
+    "Moisture": 100,
+    "Lux": 110.83,
+    "Temperature": 22.92,
+    "Humidity": 36.52,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:15.9245904+01:00",
+    "Moisture": 100,
+    "Lux": 110.83,
+    "Temperature": 22.92,
+    "Humidity": 36.6,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:17.119187+01:00",
+    "Moisture": 100,
+    "Lux": 110.83,
+    "Temperature": 22.92,
+    "Humidity": 37.33,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:18.3257662+01:00",
+    "Moisture": 100,
+    "Lux": 120,
+    "Temperature": 22.93,
+    "Humidity": 37.99,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:19.518049+01:00",
+    "Moisture": 100,
+    "Lux": 114.17,
+    "Temperature": 22.94,
+    "Humidity": 39.16,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:20.7301174+01:00",
+    "Moisture": 100,
+    "Lux": 116.67,
+    "Temperature": 22.95,
+    "Humidity": 39.34,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:21.9303968+01:00",
+    "Moisture": 100,
+    "Lux": 117.5,
+    "Temperature": 22.96,
+    "Humidity": 39.1,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:23.1600242+01:00",
+    "Moisture": 100,
+    "Lux": 115,
+    "Temperature": 22.97,
+    "Humidity": 38.95,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:24.3588942+01:00",
+    "Moisture": 100,
+    "Lux": 116.67,
+    "Temperature": 22.98,
+    "Humidity": 38.75,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:25.5603695+01:00",
+    "Moisture": 100,
+    "Lux": 116.67,
+    "Temperature": 22.98,
+    "Humidity": 38.45,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:26.7597211+01:00",
+    "Moisture": 100,
+    "Lux": 115.83,
+    "Temperature": 22.99,
+    "Humidity": 37.82,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:27.9828845+01:00",
+    "Moisture": 100,
+    "Lux": 125.83,
+    "Temperature": 23,
+    "Humidity": 37.7,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:29.1714652+01:00",
+    "Moisture": 100,
+    "Lux": 129.17,
+    "Temperature": 23.01,
+    "Humidity": 38.18,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:30.3827687+01:00",
+    "Moisture": 100,
+    "Lux": 155.83,
+    "Temperature": 23.02,
+    "Humidity": 38.29,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:31.6084434+01:00",
+    "Moisture": 100,
+    "Lux": 164.17,
+    "Temperature": 23.02,
+    "Humidity": 37.8,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:32.8173713+01:00",
+    "Moisture": 100,
+    "Lux": 169.17,
+    "Temperature": 23.04,
+    "Humidity": 37.91,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:34.0687219+01:00",
+    "Moisture": 100,
+    "Lux": 170.83,
+    "Temperature": 23.04,
+    "Humidity": 37.98,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:35.2941715+01:00",
+    "Moisture": 100,
+    "Lux": 170.83,
+    "Temperature": 23.05,
+    "Humidity": 37.89,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:36.4970423+01:00",
+    "Moisture": 100,
+    "Lux": 171.67,
+    "Temperature": 23.06,
+    "Humidity": 37.49,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:37.7165486+01:00",
+    "Moisture": 100,
+    "Lux": 175,
+    "Temperature": 23.06,
+    "Humidity": 37.26,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:38.9136754+01:00",
+    "Moisture": 100,
+    "Lux": 175.83,
+    "Temperature": 23.07,
+    "Humidity": 37.81,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:40.2171518+01:00",
+    "Moisture": 100,
+    "Lux": 175.83,
+    "Temperature": 23.07,
+    "Humidity": 37.67,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:41.4402346+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.07,
+    "Humidity": 37.65,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:42.6406125+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.07,
+    "Humidity": 37.03,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:43.847355+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.06,
+    "Humidity": 36.13,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:45.0577644+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.05,
+    "Humidity": 36.02,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:46.2717901+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.06,
+    "Humidity": 37.82,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:47.4696157+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.06,
+    "Humidity": 37.98,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:48.8136692+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.07,
+    "Humidity": 37.47,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:50.0198123+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.07,
+    "Humidity": 38.44,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:51.2193837+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.06,
+    "Humidity": 37.67,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:52.4980407+01:00",
+    "Moisture": 100,
+    "Lux": 176.67,
+    "Temperature": 23.08,
+    "Humidity": 38.1,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:53.8424435+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.08,
+    "Humidity": 38.12,
+    "Pressure": 966.15,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:55.0473317+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.09,
+    "Humidity": 38.38,
+    "Pressure": 966.14,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:31:59.1081104+01:00",
+    "Moisture": 100,
+    "Lux": 179.17,
+    "Temperature": 23.09,
+    "Humidity": 38.98,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:00.3113807+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.1,
+    "Humidity": 40.53,
+    "Pressure": 966.12,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:01.5108946+01:00",
+    "Moisture": 100,
+    "Lux": 178.33,
+    "Temperature": 23.1,
+    "Humidity": 38.84,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:02.7396427+01:00",
+    "Moisture": 100,
+    "Lux": 179.17,
+    "Temperature": 23.1,
+    "Humidity": 37.54,
+    "Pressure": 966.1,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:03.937503+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.11,
+    "Humidity": 38.21,
+    "Pressure": 966.08,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:05.1405494+01:00",
+    "Moisture": 100,
+    "Lux": 177.5,
+    "Temperature": 23.11,
+    "Humidity": 39.29,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:06.3398068+01:00",
+    "Moisture": 100,
+    "Lux": 179.17,
+    "Temperature": 23.11,
+    "Humidity": 39.58,
+    "Pressure": 966.13,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:07.6552337+01:00",
+    "Moisture": 100,
+    "Lux": 178.33,
+    "Temperature": 23.11,
+    "Humidity": 38.08,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:08.8529886+01:00",
+    "Moisture": 100,
+    "Lux": 178.33,
+    "Temperature": 23.12,
+    "Humidity": 37.34,
+    "Pressure": 966.12,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:16.9113323+01:00",
+    "Moisture": 100,
+    "Lux": 175.83,
+    "Temperature": 23.13,
+    "Humidity": 38.26,
+    "Pressure": 966.11,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:33.8608552+01:00",
+    "Moisture": 100,
+    "Lux": 244.17,
+    "Temperature": 23.12,
+    "Humidity": 36.24,
+    "Pressure": 966.09,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:36.228255+01:00",
+    "Moisture": 100,
+    "Lux": 244.17,
+    "Temperature": 23.13,
+    "Humidity": 36.48,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:46.2317615+01:00",
+    "Moisture": 100,
+    "Lux": 245.83,
+    "Temperature": 23.15,
+    "Humidity": 38.26,
+    "Pressure": 966.05,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:32:56.3004549+01:00",
+    "Moisture": 100,
+    "Lux": 246.67,
+    "Temperature": 23.13,
+    "Humidity": 37.82,
+    "Pressure": 966.07,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:06.2530963+01:00",
+    "Moisture": 100,
+    "Lux": 210.83,
+    "Temperature": 23.14,
+    "Humidity": 36.96,
+    "Pressure": 966.04,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:16.2624788+01:00",
+    "Moisture": 100,
+    "Lux": 210.83,
+    "Temperature": 23.21,
+    "Humidity": 38.59,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:26.2636555+01:00",
+    "Moisture": 100,
+    "Lux": 206.67,
+    "Temperature": 23.2,
+    "Humidity": 39.5,
+    "Pressure": 966.04,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:36.2694351+01:00",
+    "Moisture": 100,
+    "Lux": 195,
+    "Temperature": 23.18,
+    "Humidity": 37.95,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:46.2708509+01:00",
+    "Moisture": 100,
+    "Lux": 215.83,
+    "Temperature": 23.2,
+    "Humidity": 39.13,
+    "Pressure": 966.02,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:33:56.3012428+01:00",
+    "Moisture": 100,
+    "Lux": 219.17,
+    "Temperature": 23.23,
+    "Humidity": 38.12,
+    "Pressure": 965.99,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:06.2834509+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 23.23,
+    "Humidity": 38.5,
+    "Pressure": 965.98,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:16.3019178+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.25,
+    "Humidity": 38.57,
+    "Pressure": 965.99,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:26.2989002+01:00",
+    "Moisture": 100,
+    "Lux": 219.17,
+    "Temperature": 23.25,
+    "Humidity": 37.42,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:36.314163+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.29,
+    "Humidity": 39.67,
+    "Pressure": 966,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:46.3399638+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.3,
+    "Humidity": 39.47,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:34:56.3437724+01:00",
+    "Moisture": 100,
+    "Lux": 220.83,
+    "Temperature": 23.31,
+    "Humidity": 38.99,
+    "Pressure": 966.04,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:06.3538212+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.34,
+    "Humidity": 38.69,
+    "Pressure": 966.02,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:16.4806728+01:00",
+    "Moisture": 100,
+    "Lux": 219.17,
+    "Temperature": 23.35,
+    "Humidity": 38.27,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:26.3638006+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.32,
+    "Humidity": 38.58,
+    "Pressure": 965.98,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:36.3721609+01:00",
+    "Moisture": 100,
+    "Lux": 220,
+    "Temperature": 23.34,
+    "Humidity": 39.31,
+    "Pressure": 965.97,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:46.3678238+01:00",
+    "Moisture": 100,
+    "Lux": 185,
+    "Temperature": 23.35,
+    "Humidity": 40.13,
+    "Pressure": 965.98,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:35:56.3700838+01:00",
+    "Moisture": 100,
+    "Lux": 164.17,
+    "Temperature": 23.36,
+    "Humidity": 38.52,
+    "Pressure": 965.99,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:06.3787538+01:00",
+    "Moisture": 100,
+    "Lux": 165.83,
+    "Temperature": 23.38,
+    "Humidity": 36.42,
+    "Pressure": 965.99,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:16.5887346+01:00",
+    "Moisture": 100,
+    "Lux": 166.67,
+    "Temperature": 23.4,
+    "Humidity": 40.27,
+    "Pressure": 966,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:26.3923744+01:00",
+    "Moisture": 100,
+    "Lux": 260,
+    "Temperature": 23.38,
+    "Humidity": 36.85,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:39.1631107+01:00",
+    "Moisture": 100,
+    "Lux": 244.17,
+    "Temperature": 23.32,
+    "Humidity": 37.99,
+    "Pressure": 965.97,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:46.4075492+01:00",
+    "Moisture": 100,
+    "Lux": 258.33,
+    "Temperature": 23.3,
+    "Humidity": 37.29,
+    "Pressure": 966,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:50.0068417+01:00",
+    "Moisture": 100,
+    "Lux": 258.33,
+    "Temperature": 23.3,
+    "Humidity": 37.29,
+    "Pressure": 966,
+    "Status": "MANUAL WATERING"
+  },
+  {
+    "Timestamp": "2026-01-28T11:36:53.2911004+01:00",
+    "Moisture": 100,
+    "Lux": 258.33,
+    "Temperature": 23.3,
+    "Humidity": 37.29,
+    "Pressure": 966,
+    "Status": "MANUAL WATERING"
+  },
+  {
+    "Timestamp": "2026-01-28T11:37:19.4749898+01:00",
+    "Moisture": 100,
+    "Lux": 254.17,
+    "Temperature": 23.23,
+    "Humidity": 36.38,
+    "Pressure": 966,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:37:29.4939578+01:00",
+    "Moisture": 100,
+    "Lux": 250.83,
+    "Temperature": 23.22,
+    "Humidity": 36.89,
+    "Pressure": 966.02,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:37:39.5040794+01:00",
+    "Moisture": 100,
+    "Lux": 248.33,
+    "Temperature": 23.2,
+    "Humidity": 36.6,
+    "Pressure": 966,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:37:49.5696443+01:00",
+    "Moisture": 100,
+    "Lux": 246.67,
+    "Temperature": 23.18,
+    "Humidity": 36.36,
+    "Pressure": 965.98,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:37:59.5143759+01:00",
+    "Moisture": 100,
+    "Lux": 244.17,
+    "Temperature": 23.19,
+    "Humidity": 36.8,
+    "Pressure": 966,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:38:09.5190497+01:00",
+    "Moisture": 100,
+    "Lux": 242.5,
+    "Temperature": 23.16,
+    "Humidity": 36.57,
+    "Pressure": 966.01,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:38:19.5752388+01:00",
+    "Moisture": 100,
+    "Lux": 241.67,
+    "Temperature": 23.13,
+    "Humidity": 38.88,
+    "Pressure": 966.02,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:38:27.1427831+01:00",
+    "Moisture": 100,
+    "Lux": 241.67,
+    "Temperature": 23.14,
+    "Humidity": 38.38,
+    "Pressure": 966.03,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-28T11:38:32.2538093+01:00",
+    "Moisture": 100,
+    "Lux": 240,
+    "Temperature": 23.14,
+    "Humidity": 37.27,
+    "Pressure": 966.03,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:02.0474885+01:00",
+    "Moisture": 2,
+    "Lux": 655.83,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:11.7152641+01:00",
+    "Moisture": 2,
+    "Lux": 673.33,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:21.7277228+01:00",
+    "Moisture": 2,
+    "Lux": 703.33,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:31.8538512+01:00",
+    "Moisture": 3,
+    "Lux": 724.17,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:41.773382+01:00",
+    "Moisture": 5,
+    "Lux": 725.83,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:54:51.7622433+01:00",
+    "Moisture": 2,
+    "Lux": 98.33,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:01.7782349+01:00",
+    "Moisture": 2,
+    "Lux": 951.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:11.7942601+01:00",
+    "Moisture": 5,
+    "Lux": 946.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:21.8025774+01:00",
+    "Moisture": 2,
+    "Lux": 945,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:31.8303171+01:00",
+    "Moisture": 3,
+    "Lux": 934.17,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:41.8272674+01:00",
+    "Moisture": 5,
+    "Lux": 939.17,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:55:51.8260608+01:00",
+    "Moisture": 3,
+    "Lux": 830,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:01.8448317+01:00",
+    "Moisture": 3,
+    "Lux": 841.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:11.8568222+01:00",
+    "Moisture": 5,
+    "Lux": 856.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:21.8678086+01:00",
+    "Moisture": 7,
+    "Lux": 35,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:31.8999153+01:00",
+    "Moisture": 9,
+    "Lux": 25,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:41.8776122+01:00",
+    "Moisture": 13,
+    "Lux": 16.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:56:51.8841202+01:00",
+    "Moisture": 21,
+    "Lux": 6.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:01.8904583+01:00",
+    "Moisture": 18,
+    "Lux": 7.5,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:12.1092074+01:00",
+    "Moisture": 17,
+    "Lux": 6.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:21.9442295+01:00",
+    "Moisture": 17,
+    "Lux": 6.67,
+    "Temperature": 0,
+    "Humidity": 0,
+    "Pressure": 0,
+    "Status": "CRITICAL: TOO COLD!"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:38.5393436+01:00",
+    "Moisture": 18,
+    "Lux": 12.5,
+    "Temperature": 22.02,
+    "Humidity": 37.07,
+    "Pressure": 968.39,
+    "Status": "WATERING"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:39.8793515+01:00",
+    "Moisture": 20,
+    "Lux": 10,
+    "Temperature": 22.05,
+    "Humidity": 37.94,
+    "Pressure": 968.41,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:49.8979802+01:00",
+    "Moisture": 17,
+    "Lux": 6.67,
+    "Temperature": 22.09,
+    "Humidity": 37.6,
+    "Pressure": 968.46,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:57:59.7844709+01:00",
+    "Moisture": 90,
+    "Lux": 33.33,
+    "Temperature": 22.14,
+    "Humidity": 39.59,
+    "Pressure": 968.43,
+    "Status": "ADVICE: Mist plant, air to dry"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:09.9675495+01:00",
+    "Moisture": 14,
+    "Lux": 929.17,
+    "Temperature": 22.16,
+    "Humidity": 38.55,
+    "Pressure": 968.41,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:19.8991148+01:00",
+    "Moisture": 18,
+    "Lux": 286.67,
+    "Temperature": 22.24,
+    "Humidity": 35.65,
+    "Pressure": 968.38,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:29.8252615+01:00",
+    "Moisture": 18,
+    "Lux": 287.5,
+    "Temperature": 22.34,
+    "Humidity": 34.5,
+    "Pressure": 968.43,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:39.8399863+01:00",
+    "Moisture": 17,
+    "Lux": 281.67,
+    "Temperature": 22.36,
+    "Humidity": 34.33,
+    "Pressure": 968.43,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:49.8542175+01:00",
+    "Moisture": 17,
+    "Lux": 285.83,
+    "Temperature": 22.41,
+    "Humidity": 33.74,
+    "Pressure": 968.39,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:58:59.8711704+01:00",
+    "Moisture": 17,
+    "Lux": 286.67,
+    "Temperature": 22.42,
+    "Humidity": 34.31,
+    "Pressure": 968.4,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:59:09.8795944+01:00",
+    "Moisture": 5,
+    "Lux": 80,
+    "Temperature": 22.4,
+    "Humidity": 37.2,
+    "Pressure": 968.41,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T07:59:19.8977596+01:00",
+    "Moisture": 2,
+    "Lux": 215.83,
+    "Temperature": 22.42,
+    "Humidity": 36.85,
+    "Pressure": 968.42,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T08:09:19.8649121+01:00",
+    "Moisture": 1,
+    "Lux": 400.83,
+    "Temperature": 24.36,
+    "Humidity": 35.5,
+    "Pressure": 968.42,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T08:09:29.5570065+01:00",
+    "Moisture": 2,
+    "Lux": 385.83,
+    "Temperature": 24.43,
+    "Humidity": 34.04,
+    "Pressure": 968.43,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T08:09:39.565089+01:00",
+    "Moisture": 2,
+    "Lux": 595,
+    "Temperature": 24.51,
+    "Humidity": 35.22,
+    "Pressure": 968.41,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T08:09:49.5617198+01:00",
+    "Moisture": 3,
+    "Lux": 385.83,
+    "Temperature": 24.57,
+    "Humidity": 36.65,
+    "Pressure": 968.44,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:20:28.9431836+01:00",
+    "Moisture": 6,
+    "Lux": 55.83,
+    "Temperature": 15.61,
+    "Humidity": 48.31,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:20:38.6564099+01:00",
+    "Moisture": 6,
+    "Lux": 55.83,
+    "Temperature": 15.72,
+    "Humidity": 45.06,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:20:48.6096526+01:00",
+    "Moisture": 6,
+    "Lux": 55.83,
+    "Temperature": 15.85,
+    "Humidity": 44.63,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:20:58.61187+01:00",
+    "Moisture": 6,
+    "Lux": 55.83,
+    "Temperature": 15.98,
+    "Humidity": 44.5,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:08.6287154+01:00",
+    "Moisture": 21,
+    "Lux": 9.17,
+    "Temperature": 16.11,
+    "Humidity": 46.74,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:18.6328125+01:00",
+    "Moisture": 14,
+    "Lux": 22.5,
+    "Temperature": 16.19,
+    "Humidity": 45.89,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:28.6563531+01:00",
+    "Moisture": 20,
+    "Lux": 13.33,
+    "Temperature": 16.28,
+    "Humidity": 46.17,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:38.8956343+01:00",
+    "Moisture": 32,
+    "Lux": 18.33,
+    "Temperature": 16.37,
+    "Humidity": 45.52,
+    "Pressure": 967.98,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:48.6599655+01:00",
+    "Moisture": 30,
+    "Lux": 25,
+    "Temperature": 16.45,
+    "Humidity": 44.78,
+    "Pressure": 967.99,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-29T09:21:58.6922384+01:00",
+    "Moisture": 29,
+    "Lux": 25,
+    "Temperature": 16.53,
+    "Humidity": 44.04,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:08.6818115+01:00",
+    "Moisture": 32,
+    "Lux": 21.67,
+    "Temperature": 16.61,
+    "Humidity": 43.78,
+    "Pressure": 968.01,
+    "Status": "OK"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:18.7440329+01:00",
+    "Moisture": 29,
+    "Lux": 18.33,
+    "Temperature": 16.7,
+    "Humidity": 43.67,
+    "Pressure": 968.01,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:28.8334803+01:00",
+    "Moisture": 29,
+    "Lux": 20.83,
+    "Temperature": 16.81,
+    "Humidity": 43.65,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:38.8057131+01:00",
+    "Moisture": 29,
+    "Lux": 21.67,
+    "Temperature": 16.91,
+    "Humidity": 42.99,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:48.7514935+01:00",
+    "Moisture": 29,
+    "Lux": 17.5,
+    "Temperature": 16.99,
+    "Humidity": 42.7,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:22:58.787926+01:00",
+    "Moisture": 29,
+    "Lux": 48.33,
+    "Temperature": 17.16,
+    "Humidity": 42.42,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:25:22.2555767+01:00",
+    "Moisture": 14,
+    "Lux": 111.67,
+    "Temperature": 18.79,
+    "Humidity": 36.94,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:25:28.8692899+01:00",
+    "Moisture": 13,
+    "Lux": 115.83,
+    "Temperature": 18.9,
+    "Humidity": 36.77,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:25:38.8479086+01:00",
+    "Moisture": 14,
+    "Lux": 161.67,
+    "Temperature": 19.05,
+    "Humidity": 38.48,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:25:48.8877795+01:00",
+    "Moisture": 14,
+    "Lux": 158.33,
+    "Temperature": 19.15,
+    "Humidity": 36.84,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:25:58.9130506+01:00",
+    "Moisture": 13,
+    "Lux": 119.17,
+    "Temperature": 19.22,
+    "Humidity": 35.89,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:26:08.900745+01:00",
+    "Moisture": 14,
+    "Lux": 115,
+    "Temperature": 19.3,
+    "Humidity": 35.64,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:26:18.8807874+01:00",
+    "Moisture": 13,
+    "Lux": 126.67,
+    "Temperature": 19.39,
+    "Humidity": 35.9,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:26:28.8665494+01:00",
+    "Moisture": 14,
+    "Lux": 120,
+    "Temperature": 19.49,
+    "Humidity": 38.07,
+    "Pressure": 968.04,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:26:38.9485501+01:00",
+    "Moisture": 14,
+    "Lux": 147.5,
+    "Temperature": 19.58,
+    "Humidity": 37.05,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:26:48.8843545+01:00",
+    "Moisture": 14,
+    "Lux": 147.5,
+    "Temperature": 19.73,
+    "Humidity": 38.06,
+    "Pressure": 967.91,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:11.7375527+01:00",
+    "Moisture": 14,
+    "Lux": 138.33,
+    "Temperature": 20.03,
+    "Humidity": 36.26,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:18.9904788+01:00",
+    "Moisture": 16,
+    "Lux": 260.83,
+    "Temperature": 20.14,
+    "Humidity": 37.55,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:31.6909513+01:00",
+    "Moisture": 15,
+    "Lux": 199.17,
+    "Temperature": 20.25,
+    "Humidity": 34.91,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:38.9578784+01:00",
+    "Moisture": 15,
+    "Lux": 116.67,
+    "Temperature": 20.38,
+    "Humidity": 34.69,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:48.9945339+01:00",
+    "Moisture": 16,
+    "Lux": 226.67,
+    "Temperature": 20.47,
+    "Humidity": 36.24,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:27:59.0285666+01:00",
+    "Moisture": 14,
+    "Lux": 196.67,
+    "Temperature": 20.54,
+    "Humidity": 35.72,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:09.0071147+01:00",
+    "Moisture": 14,
+    "Lux": 223.33,
+    "Temperature": 20.59,
+    "Humidity": 34.48,
+    "Pressure": 967.9,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:19.0004657+01:00",
+    "Moisture": 14,
+    "Lux": 252.5,
+    "Temperature": 20.61,
+    "Humidity": 33.86,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:29.0628793+01:00",
+    "Moisture": 2,
+    "Lux": 165,
+    "Temperature": 20.65,
+    "Humidity": 34.99,
+    "Pressure": 967.91,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:39.0855083+01:00",
+    "Moisture": 1,
+    "Lux": 458.33,
+    "Temperature": 20.81,
+    "Humidity": 37.41,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:49.0589039+01:00",
+    "Moisture": 2,
+    "Lux": 555.83,
+    "Temperature": 20.93,
+    "Humidity": 37.22,
+    "Pressure": 967.91,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:28:59.0351834+01:00",
+    "Moisture": 2,
+    "Lux": 507.5,
+    "Temperature": 20.95,
+    "Humidity": 34.79,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:29:09.0673132+01:00",
+    "Moisture": 3,
+    "Lux": 72.5,
+    "Temperature": 20.95,
+    "Humidity": 35.26,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:29:19.0585494+01:00",
+    "Moisture": 3,
+    "Lux": 437.5,
+    "Temperature": 20.97,
+    "Humidity": 34.7,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:29:29.0389096+01:00",
+    "Moisture": 3,
+    "Lux": 313.33,
+    "Temperature": 20.98,
+    "Humidity": 33.17,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:29:39.0771831+01:00",
+    "Moisture": 10,
+    "Lux": 180,
+    "Temperature": 21.06,
+    "Humidity": 33.73,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:29:53.6116096+01:00",
+    "Moisture": 10,
+    "Lux": 309.17,
+    "Temperature": 21.12,
+    "Humidity": 33.42,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:02.2207451+01:00",
+    "Moisture": 10,
+    "Lux": 265,
+    "Temperature": 21.15,
+    "Humidity": 32.94,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:09.0783803+01:00",
+    "Moisture": 10,
+    "Lux": 375,
+    "Temperature": 21.22,
+    "Humidity": 32.9,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:19.1736612+01:00",
+    "Moisture": 10,
+    "Lux": 123.33,
+    "Temperature": 21.3,
+    "Humidity": 37.04,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:25.2560941+01:00",
+    "Moisture": 10,
+    "Lux": 123.33,
+    "Temperature": 21.3,
+    "Humidity": 37.04,
+    "Pressure": 967.99,
+    "Status": "MANUAL WATERING"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:28.5882121+01:00",
+    "Moisture": 10,
+    "Lux": 123.33,
+    "Temperature": 21.3,
+    "Humidity": 37.04,
+    "Pressure": 967.99,
+    "Status": "MANUAL WATERING"
+  },
+  {
+    "Timestamp": "2026-01-29T09:30:55.2598944+01:00",
+    "Moisture": 10,
+    "Lux": 239.17,
+    "Temperature": 21.53,
+    "Humidity": 33.03,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:04.835371+01:00",
+    "Moisture": 11,
+    "Lux": 227.5,
+    "Temperature": 21.58,
+    "Humidity": 34.41,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:14.874244+01:00",
+    "Moisture": 12,
+    "Lux": 217.5,
+    "Temperature": 21.68,
+    "Humidity": 38.78,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:24.9053501+01:00",
+    "Moisture": 11,
+    "Lux": 134.17,
+    "Temperature": 21.78,
+    "Humidity": 34,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:34.9904016+01:00",
+    "Moisture": 11,
+    "Lux": 175.83,
+    "Temperature": 21.85,
+    "Humidity": 33.76,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:44.923138+01:00",
+    "Moisture": 11,
+    "Lux": 235.83,
+    "Temperature": 21.94,
+    "Humidity": 34.04,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:31:54.9105215+01:00",
+    "Moisture": 12,
+    "Lux": 271.67,
+    "Temperature": 22.06,
+    "Humidity": 34.91,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:49:37.3347834+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.93,
+    "Humidity": 29.62,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:49:46.9891764+01:00",
+    "Moisture": 9,
+    "Lux": 268.33,
+    "Temperature": 23.91,
+    "Humidity": 29.61,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:49:56.9694148+01:00",
+    "Moisture": 10,
+    "Lux": 268.33,
+    "Temperature": 23.89,
+    "Humidity": 29.73,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:07.0593754+01:00",
+    "Moisture": 10,
+    "Lux": 265,
+    "Temperature": 23.88,
+    "Humidity": 30.55,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:17.0162423+01:00",
+    "Moisture": 11,
+    "Lux": 269.17,
+    "Temperature": 23.97,
+    "Humidity": 31.64,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:27.1320327+01:00",
+    "Moisture": 10,
+    "Lux": 268.33,
+    "Temperature": 23.97,
+    "Humidity": 29.98,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:37.0124571+01:00",
+    "Moisture": 10,
+    "Lux": 268.33,
+    "Temperature": 23.96,
+    "Humidity": 30.99,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:50.0676642+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.97,
+    "Humidity": 31.88,
+    "Pressure": 967.94,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:50:57.0344021+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.92,
+    "Humidity": 30.72,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:07.0864818+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.92,
+    "Humidity": 30,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:17.1105511+01:00",
+    "Moisture": 10,
+    "Lux": 270.83,
+    "Temperature": 23.92,
+    "Humidity": 30.44,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:27.1375709+01:00",
+    "Moisture": 10,
+    "Lux": 270.83,
+    "Temperature": 23.91,
+    "Humidity": 30.01,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:37.1246589+01:00",
+    "Moisture": 10,
+    "Lux": 270.83,
+    "Temperature": 23.95,
+    "Humidity": 31.33,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:47.2238798+01:00",
+    "Moisture": 10,
+    "Lux": 269.17,
+    "Temperature": 23.95,
+    "Humidity": 30.26,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:51:57.1418401+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.94,
+    "Humidity": 29.97,
+    "Pressure": 967.92,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:07.1744489+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.96,
+    "Humidity": 29.93,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:17.1466484+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.94,
+    "Humidity": 29.93,
+    "Pressure": 968.06,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:27.1436926+01:00",
+    "Moisture": 9,
+    "Lux": 270,
+    "Temperature": 23.94,
+    "Humidity": 29.7,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:37.2144417+01:00",
+    "Moisture": 10,
+    "Lux": 269.17,
+    "Temperature": 23.96,
+    "Humidity": 29.99,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:47.1706751+01:00",
+    "Moisture": 10,
+    "Lux": 269.17,
+    "Temperature": 23.98,
+    "Humidity": 30.52,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:52:57.2523557+01:00",
+    "Moisture": 10,
+    "Lux": 269.17,
+    "Temperature": 23.98,
+    "Humidity": 30.05,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:07.1864323+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.97,
+    "Humidity": 29.75,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:17.2507575+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.97,
+    "Humidity": 29.72,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:27.2728526+01:00",
+    "Moisture": 10,
+    "Lux": 270,
+    "Temperature": 23.99,
+    "Humidity": 30.13,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:37.2320236+01:00",
+    "Moisture": 10,
+    "Lux": 269.17,
+    "Temperature": 24.01,
+    "Humidity": 30.04,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:47.2299533+01:00",
+    "Moisture": 10,
+    "Lux": 264.17,
+    "Temperature": 24.06,
+    "Humidity": 31.11,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:53:57.2618418+01:00",
+    "Moisture": 9,
+    "Lux": 312.5,
+    "Temperature": 24.06,
+    "Humidity": 32.27,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:54:07.2982183+01:00",
+    "Moisture": 10,
+    "Lux": 345,
+    "Temperature": 24.03,
+    "Humidity": 31.53,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:54:17.3385278+01:00",
+    "Moisture": 10,
+    "Lux": 360.83,
+    "Temperature": 24,
+    "Humidity": 32.66,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:54:37.3517448+01:00",
+    "Moisture": 9,
+    "Lux": 360,
+    "Temperature": 23.97,
+    "Humidity": 29.85,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:54:47.2799341+01:00",
+    "Moisture": 10,
+    "Lux": 360,
+    "Temperature": 24.01,
+    "Humidity": 29.75,
+    "Pressure": 968.01,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:54:57.3125977+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24.02,
+    "Humidity": 30.23,
+    "Pressure": 968.02,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:07.3015716+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24,
+    "Humidity": 29.72,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:17.3729684+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.04,
+    "Humidity": 29.67,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:27.3753956+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.08,
+    "Humidity": 30.32,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:37.3040416+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.06,
+    "Humidity": 31.93,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:47.3422624+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24.08,
+    "Humidity": 30.39,
+    "Pressure": 967.96,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:55:57.3769256+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.11,
+    "Humidity": 29.51,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:07.4401077+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24.12,
+    "Humidity": 30.79,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:17.3424612+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.09,
+    "Humidity": 30.23,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:27.3850776+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24.13,
+    "Humidity": 30.16,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:37.4160001+01:00",
+    "Moisture": 9,
+    "Lux": 361.67,
+    "Temperature": 24.13,
+    "Humidity": 29.99,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:47.4012735+01:00",
+    "Moisture": 10,
+    "Lux": 361.67,
+    "Temperature": 24.16,
+    "Humidity": 29.91,
+    "Pressure": 968.01,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:56:57.4857217+01:00",
+    "Moisture": 9,
+    "Lux": 341.67,
+    "Temperature": 24.18,
+    "Humidity": 29.39,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:57:07.5225063+01:00",
+    "Moisture": 9,
+    "Lux": 352.5,
+    "Temperature": 24.17,
+    "Humidity": 29.68,
+    "Pressure": 968.02,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:57:17.4546359+01:00",
+    "Moisture": 10,
+    "Lux": 358.33,
+    "Temperature": 24.14,
+    "Humidity": 29.88,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:57:27.5908269+01:00",
+    "Moisture": 10,
+    "Lux": 349.17,
+    "Temperature": 24.1,
+    "Humidity": 29.74,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:57:37.5279686+01:00",
+    "Moisture": 10,
+    "Lux": 354.17,
+    "Temperature": 24.09,
+    "Humidity": 29.74,
+    "Pressure": 968.06,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:57:57.6274942+01:00",
+    "Moisture": 7,
+    "Lux": 315.83,
+    "Temperature": 24.22,
+    "Humidity": 29.62,
+    "Pressure": 967.93,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:07.4771445+01:00",
+    "Moisture": 10,
+    "Lux": 315.83,
+    "Temperature": 24.34,
+    "Humidity": 30.14,
+    "Pressure": 967.95,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:17.512797+01:00",
+    "Moisture": 10,
+    "Lux": 315.83,
+    "Temperature": 24.35,
+    "Humidity": 29.27,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:27.5413332+01:00",
+    "Moisture": 10,
+    "Lux": 314.17,
+    "Temperature": 24.3,
+    "Humidity": 29.83,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:37.6412171+01:00",
+    "Moisture": 10,
+    "Lux": 315.83,
+    "Temperature": 24.29,
+    "Humidity": 31.46,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:47.5653496+01:00",
+    "Moisture": 10,
+    "Lux": 315,
+    "Temperature": 24.35,
+    "Humidity": 30.2,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:58:57.6424008+01:00",
+    "Moisture": 10,
+    "Lux": 315.83,
+    "Temperature": 24.35,
+    "Humidity": 29.63,
+    "Pressure": 968,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:07.592305+01:00",
+    "Moisture": 10,
+    "Lux": 314.17,
+    "Temperature": 24.38,
+    "Humidity": 29.53,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:17.5699168+01:00",
+    "Moisture": 9,
+    "Lux": 313.33,
+    "Temperature": 24.42,
+    "Humidity": 29.47,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:27.6514282+01:00",
+    "Moisture": 9,
+    "Lux": 311.67,
+    "Temperature": 24.48,
+    "Humidity": 30.95,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:37.6352377+01:00",
+    "Moisture": 9,
+    "Lux": 314.17,
+    "Temperature": 24.52,
+    "Humidity": 30.68,
+    "Pressure": 967.99,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:47.6868487+01:00",
+    "Moisture": 10,
+    "Lux": 245,
+    "Temperature": 24.44,
+    "Humidity": 32.83,
+    "Pressure": 967.97,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T09:59:57.6196799+01:00",
+    "Moisture": 10,
+    "Lux": 244.17,
+    "Temperature": 24.44,
+    "Humidity": 32.61,
+    "Pressure": 967.98,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:07.6424942+01:00",
+    "Moisture": 10,
+    "Lux": 245,
+    "Temperature": 24.38,
+    "Humidity": 30.7,
+    "Pressure": 968.03,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:19.6294587+01:00",
+    "Moisture": 10,
+    "Lux": 244.17,
+    "Temperature": 24.39,
+    "Humidity": 31.07,
+    "Pressure": 967.98,
+    "Status": "WATERING"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:27.6613879+01:00",
+    "Moisture": 10,
+    "Lux": 241.67,
+    "Temperature": 24.36,
+    "Humidity": 32.75,
+    "Pressure": 968.16,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:37.6447495+01:00",
+    "Moisture": 10,
+    "Lux": 242.5,
+    "Temperature": 24.37,
+    "Humidity": 31.17,
+    "Pressure": 968.03,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:47.6976373+01:00",
+    "Moisture": 10,
+    "Lux": 242.5,
+    "Temperature": 24.34,
+    "Humidity": 29.82,
+    "Pressure": 968.05,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:00:57.7142019+01:00",
+    "Moisture": 9,
+    "Lux": 245,
+    "Temperature": 24.38,
+    "Humidity": 29.86,
+    "Pressure": 968.12,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:07.7674238+01:00",
+    "Moisture": 10,
+    "Lux": 245.83,
+    "Temperature": 24.39,
+    "Humidity": 30.12,
+    "Pressure": 968.01,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:17.6980139+01:00",
+    "Moisture": 10,
+    "Lux": 243.33,
+    "Temperature": 24.39,
+    "Humidity": 29.53,
+    "Pressure": 968.14,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:27.7340923+01:00",
+    "Moisture": 9,
+    "Lux": 244.17,
+    "Temperature": 24.37,
+    "Humidity": 29.69,
+    "Pressure": 968.04,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:37.7710884+01:00",
+    "Moisture": 10,
+    "Lux": 244.17,
+    "Temperature": 24.3,
+    "Humidity": 30.3,
+    "Pressure": 968.04,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:47.8291543+01:00",
+    "Moisture": 10,
+    "Lux": 243.33,
+    "Temperature": 24.3,
+    "Humidity": 32.04,
+    "Pressure": 968.05,
+    "Status": "DRY (Waiting: Cooldown)"
+  },
+  {
+    "Timestamp": "2026-01-29T10:01:57.7716787+01:00",
+    "Moisture": 10,
+    "Lux": 242.5,
+    "Temperature": 24.39,
+    "Humidity": 31.31,
+    "Pressure": 968.07,
+    "Status": "DRY (Waiting: Cooldown)"
+  }
+]

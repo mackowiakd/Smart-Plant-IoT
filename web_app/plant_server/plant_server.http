@@ -1,0 +1,6 @@
+@plant_server_HostAddress = http://localhost:5202
+
+GET {{plant_server_HostAddress}}/PlantController/
+Accept: application/json
+
+###

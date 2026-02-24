@@ -30,8 +30,9 @@ An end-to-end Internet of Things (IoT) solution for monitoring environmental par
 ## 📸 Project Gallery
 
 
-<img width="662" height="1128" alt="image" src="https://github.com/user-attachments/assets/b3f6c6d5-5855-48bd-a4a3-84e5646fb306" />
-<img width="677" height="1128" alt="image" src="https://github.com/user-attachments/assets/5d67f00e-b7d3-4922-a379-b713e8d915a7" />
+![smart_plant_hardware](https://github.com/user-attachments/assets/93fefc6c-8d88-4d65-a838-92d87e0e0d09)
+
+  **Figure 1: Custom PCB & Hardware Assembly.** *The physical implementation of the project. I designed the schematic and routed the custom PCB using **KiCad** to seamlessly integrate the XIAO ESP32-C3 with various modules: an I2C environment sensor array (including BH1750), a battery-backed RTC, and the power delivery circuitry. The entire system is optimized to run autonomously on a standard 5V powerbank utilizing Deep Sleep cycles.*
 <img width="1244" height="779" alt="image" src="https://github.com/user-attachments/assets/37a24afd-0508-4783-898e-a38cfc5661e0" />
 
 

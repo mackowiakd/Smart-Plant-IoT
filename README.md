@@ -49,8 +49,9 @@ https://github.com/user-attachments/assets/34abda69-28c0-408e-982a-c36de282d4bd
 
  
 
+https://github.com/user-attachments/assets/e299edc5-c103-400d-92fd-4557b35e483f
 
-https://github.com/user-attachments/assets/e3be91f5-163f-4e76-9010-1a1898133729
+
   **Figure 3: Emergency Offline Mode.** The lightweight captive portal/HTML page served directly by the ESP32 when external WiFi is unavailable.
 
 

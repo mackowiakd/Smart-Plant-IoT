@@ -41,9 +41,17 @@ An end-to-end Internet of Things (IoT) solution for monitoring environmental par
 <img width="719" height="681" alt="image" src="https://github.com/user-attachments/assets/2d4ea02c-d76a-47d6-8b8a-af10fbc866f6" />
  <img width="719" height="697" alt="image" src="https://github.com/user-attachments/assets/65641eec-899a-41da-b56c-126238572afb" />
 
+
+https://github.com/user-attachments/assets/34abda69-28c0-408e-982a-c36de282d4bd
+
+
   **Figure 2: React Dashboard.** Visualizing real-time telemetry data (humidity, temperature, pressure, light) received from the .NET REST API.
-<img width="491" height="680" alt="image" src="https://github.com/user-attachments/assets/1d34e04e-5aaf-4ba0-804a-534403dbedcf" />
+
  
+
+
+https://github.com/user-attachments/assets/e3be91f5-163f-4e76-9010-1a1898133729
   **Figure 3: Emergency Offline Mode.** The lightweight captive portal/HTML page served directly by the ESP32 when external WiFi is unavailable.
+
 
 ## 🚀
